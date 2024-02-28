@@ -1,4 +1,6 @@
 package com.store.notification.service.impl;
 
-public class GenericServiceImpl {
+import com.store.notification.service.GenericService;
+
+public class GenericServiceImpl implements GenericService {
 }
